@@ -2,10 +2,10 @@
   "metadata": {
     "total_episodes": 50,
     "show_title": "I Married a Broken Soldier. He was a Duke",
-    "evaluated_candidates": 12,
-    "total_llm_cost_usd": 0.00300645,
-    "total_tokens_used": 14013,
-    "execution_time_seconds": 36.92
+    "evaluated_candidates": 15,
+    "total_llm_cost_usd": 0.0037629,
+    "total_tokens_used": 17499,
+    "execution_time_seconds": 41.1
   },
   "ranked_promos": [
     {
@@ -37,7 +37,7 @@
       ],
       "hook": "The shocking revelation that Gerald is no longer waiting for Juliana immediately grabs attention, setting a tone of betrayal and despair.",
       "cliffhanger": "The promo ends on a tense moment as Juliana's emotional transformation from devastation to defiance leaves viewers eager to know her next move.",
-      "why_it_works": "This promo effectively captures raw emotion and conflict, compelling viewers to click through to see how Juliana confronts her heartbreak.",
+      "why_it_works": "This promo effectively combines emotional stakes with a dramatic twist, compelling viewers to click for resolution.",
       "metrics": {
         "hook_score": 8.5,
         "cliffhanger_score": 9.0,
@@ -47,50 +47,13 @@
     },
     {
       "rank": 2,
-      "candidate_id": "STITCH_EP01_014__EP01_122",
-      "promo_type": "stitched",
-      "total_duration_seconds": 30.5,
-      "composite_score": 8.85,
-      "funnel_tier": "Tier 1: High-Conversion Retargeting Ad",
-      "posting_priority": "POST SECOND (Day 1 Night / Day 2 Push)",
-      "posting_rationale": "Post this second to retarget users who engaged with the initial betrayal promo. It delivers the immediate emotional turnaround\u2014a scarred, honorable soldier drops to one knee to defend Juliana before the sneering church guests. The cliffhanger cut on the wedding proposal compels viewers to binge Episode 2 and 3 immediately.",
-      "segments": [
-        {
-          "episode": 1,
-          "start_time_seconds": 14.3,
-          "end_time_seconds": 29.8,
-          "start_timestamp": "00:14.30",
-          "end_timestamp": "00:29.80",
-          "duration_seconds": 15.5
-        },
-        {
-          "episode": 1,
-          "start_time_seconds": 122.5,
-          "end_time_seconds": 137.5,
-          "start_timestamp": "02:02.50",
-          "end_timestamp": "02:17.50",
-          "duration_seconds": 15.0
-        }
-      ],
-      "hook": "The shocking revelation that Gerald is no longer waiting for Juliana immediately captures attention, setting a tone of betrayal and urgency.",
-      "cliffhanger": "The promo ends with a tense cut to black just as Juliana's emotional transformation from devastation to defiance peaks, leaving viewers eager to know her next move.",
-      "why_it_works": "This promo effectively combines emotional stakes with a dramatic twist, compelling viewers to download the app to see what happens next.",
-      "metrics": {
-        "hook_score": 8.5,
-        "cliffhanger_score": 9.0,
-        "clarity_score": 8.0,
-        "viral_score": 8.5
-      }
-    },
-    {
-      "rank": 3,
       "candidate_id": "STITCH_EP02_000__EP04_100",
       "promo_type": "stitched",
       "total_duration_seconds": 30.0,
       "composite_score": 8.67,
-      "funnel_tier": "Tier 2: High-Paced Dynamic Synthesis Ad",
-      "posting_priority": "POST THIRD (Day 2-3 High-Velocity Ads)",
-      "posting_rationale": "Post this third on YouTube Shorts and TikTok as a high-velocity narrative synthesis. By stitching the devastating insult directly into the soldier's dramatic intervention, it compresses the full setup-conflict-reversal arc into 35-50 seconds, driving maximum watch-time retention and viewer conversion.",
+      "funnel_tier": "Tier 1: High-Conversion Retargeting Ad",
+      "posting_priority": "POST SECOND (Day 1 Night / Day 2 Push)",
+      "posting_rationale": "Post this second to retarget users who engaged with the initial betrayal promo. It delivers the immediate emotional turnaround\u2014a scarred, honorable soldier drops to one knee to defend Juliana before the sneering church guests. The cliffhanger cut on the wedding proposal compels viewers to binge Episode 2 and 3 immediately.",
       "segments": [
         {
           "episode": 2,
@@ -110,8 +73,8 @@
         }
       ],
       "hook": "The promo opens with a shocking rejection at the altar, immediately capturing the viewer's attention with Gerald's cruel dismissal of Juliana.",
-      "cliffhanger": "It cuts sharply as the priest's voice booms, leaving viewers in suspense about the outcome of Juliana's emotional journey and the mysterious bearded man's intentions.",
-      "why_it_works": "This promo effectively combines heartbreak and intrigue, compelling viewers to click to discover Juliana's fate and the bearded man's role.",
+      "cliffhanger": "It cuts sharply as the priest begins to pronounce the new couple, leaving viewers eager to know if Juliana will find happiness after her heartbreak.",
+      "why_it_works": "This promo effectively juxtaposes heartbreak and redemption, compelling viewers to click to see how Juliana's story unfolds.",
       "metrics": {
         "hook_score": 8.5,
         "cliffhanger_score": 9.0,
@@ -120,10 +83,10 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "candidate_id": "STITCH_EP02_000__EP04_102",
       "promo_type": "stitched",
-      "total_duration_seconds": 29.0,
+      "total_duration_seconds": 27.5,
       "composite_score": 8.67,
       "funnel_tier": "Tier 2: High-Paced Dynamic Synthesis Ad",
       "posting_priority": "POST THIRD (Day 2-3 High-Velocity Ads)",
@@ -140,15 +103,15 @@
         {
           "episode": 4,
           "start_time_seconds": 102.2,
-          "end_time_seconds": 115.7,
+          "end_time_seconds": 114.2,
           "start_timestamp": "01:42.20",
-          "end_timestamp": "01:55.70",
-          "duration_seconds": 13.5
+          "end_timestamp": "01:54.20",
+          "duration_seconds": 12.0
         }
       ],
-      "hook": "The promo opens with a shocking rejection at the altar, immediately captivating viewers with the emotional turmoil of Juliana.",
-      "cliffhanger": "It cuts sharply as the priest pronounces them husband and wife, leaving viewers in suspense about the implications of this union.",
-      "why_it_works": "The intense emotional conflict and dramatic stakes create a compelling reason for viewers to click and find out more.",
+      "hook": "The promo opens with a shocking rejection at the altar, immediately drawing viewers in with emotional intensity and betrayal.",
+      "cliffhanger": "It cuts just as the priest is about to pronounce the couple husband and wife, leaving viewers desperate to know the outcome of the wedding.",
+      "why_it_works": "This promo effectively combines heartbreak and suspense, compelling viewers to click for resolution.",
       "metrics": {
         "hook_score": 8.5,
         "cliffhanger_score": 9.0,
@@ -157,10 +120,10 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "candidate_id": "STITCH_EP03_040__EP04_102",
       "promo_type": "stitched",
-      "total_duration_seconds": 24.1,
+      "total_duration_seconds": 26.1,
       "composite_score": 8.67,
       "funnel_tier": "Tier 2: High-Paced Dynamic Synthesis Ad",
       "posting_priority": "POST THIRD (Day 2-3 High-Velocity Ads)",
@@ -177,15 +140,15 @@
         {
           "episode": 4,
           "start_time_seconds": 102.2,
-          "end_time_seconds": 113.7,
+          "end_time_seconds": 115.7,
           "start_timestamp": "01:42.20",
-          "end_timestamp": "01:53.70",
-          "duration_seconds": 11.5
+          "end_timestamp": "01:55.70",
+          "duration_seconds": 13.5
         }
       ],
       "hook": "The Noble Matriarch's cold dismissal of Juliana as a 'discarded daughter' immediately shocks viewers, setting a tense emotional stage.",
-      "cliffhanger": "The promo cuts sharply as the Priest's booming declaration of 'husband and wife' leaves viewers questioning the implications of this union amidst Juliana's turmoil.",
-      "why_it_works": "The intense emotional conflict and dramatic stakes create a compelling reason for viewers to click and learn more.",
+      "cliffhanger": "The promo cuts sharply after the Priest's booming declaration, leaving viewers eager to know the implications of the marriage and Juliana's fate.",
+      "why_it_works": "This promo effectively combines emotional betrayal with a dramatic climax, compelling viewers to click for resolution.",
       "metrics": {
         "hook_score": 8.5,
         "cliffhanger_score": 9.0,
@@ -194,84 +157,76 @@
       }
     },
     {
+      "rank": 5,
+      "candidate_id": "EP15_047_086",
+      "promo_type": "continuous",
+      "total_duration_seconds": 39.1,
+      "composite_score": 8.57,
+      "funnel_tier": "Tier 3: Power Reveal & Payoff Ad",
+      "posting_priority": "POST LATER (Day 5+ Re-engagement / Core Retargeting)",
+      "posting_rationale": "Post as a mid-campaign retargeting ad to existing viewers who want to see the villains get their comeuppance and witness the mysterious soldier reveal his supreme ducal power.",
+      "segments": [
+        {
+          "episode": 15,
+          "start_time_seconds": 47.4,
+          "end_time_seconds": 86.5,
+          "start_timestamp": "00:47.40",
+          "end_timestamp": "01:26.50",
+          "duration_seconds": 39.1
+        }
+      ],
+      "hook": "The promo opens with a shocking act of violence as Juliana is violently shoved, immediately capturing attention with her gasp and the visual of her distress.",
+      "cliffhanger": "The promo cuts sharply as Alexander confronts the thugs, leaving viewers in suspense about the impending confrontation and Juliana's fate.",
+      "why_it_works": "This promo effectively combines intense emotion and high stakes, compelling viewers to click to see how the conflict resolves.",
+      "metrics": {
+        "hook_score": 9.0,
+        "cliffhanger_score": 8.5,
+        "clarity_score": 8.0,
+        "viral_score": 8.5
+      }
+    },
+    {
       "rank": 6,
-      "candidate_id": "STITCH_EP04_001__EP04_102",
+      "candidate_id": "STITCH_EP01_014__EP01_122",
       "promo_type": "stitched",
-      "total_duration_seconds": 27.5,
-      "composite_score": 8.55,
+      "total_duration_seconds": 30.5,
+      "composite_score": 8.48,
       "funnel_tier": "Tier 2: High-Paced Dynamic Synthesis Ad",
       "posting_priority": "POST THIRD (Day 2-3 High-Velocity Ads)",
       "posting_rationale": "Post this third on YouTube Shorts and TikTok as a high-velocity narrative synthesis. By stitching the devastating insult directly into the soldier's dramatic intervention, it compresses the full setup-conflict-reversal arc into 35-50 seconds, driving maximum watch-time retention and viewer conversion.",
       "segments": [
         {
-          "episode": 4,
-          "start_time_seconds": 1.5,
-          "end_time_seconds": 14.2,
-          "start_timestamp": "00:01.50",
-          "end_timestamp": "00:14.20",
-          "duration_seconds": 12.7
+          "episode": 1,
+          "start_time_seconds": 14.3,
+          "end_time_seconds": 29.8,
+          "start_timestamp": "00:14.30",
+          "end_timestamp": "00:29.80",
+          "duration_seconds": 15.5
         },
         {
-          "episode": 4,
-          "start_time_seconds": 102.5,
-          "end_time_seconds": 117.3,
-          "start_timestamp": "01:42.50",
-          "end_timestamp": "01:57.30",
-          "duration_seconds": 14.8
+          "episode": 1,
+          "start_time_seconds": 122.5,
+          "end_time_seconds": 137.5,
+          "start_timestamp": "02:02.50",
+          "end_timestamp": "02:17.50",
+          "duration_seconds": 15.0
         }
       ],
-      "hook": "The shocking mockery from Gerald and Clarissa immediately captures attention, showcasing Juliana's humiliation and disbelief.",
-      "cliffhanger": "The promo ends with Gerald's furious accusation, leaving viewers eager to know how Juliana will respond and what will happen next.",
-      "why_it_works": "This promo effectively combines emotional betrayal with high stakes, compelling viewers to click for resolution.",
+      "hook": "The shocking revelation that Gerald is no longer waiting for Juliana immediately captures attention, setting a tone of betrayal and despair.",
+      "cliffhanger": "The promo ends abruptly as Juliana's emotional transformation from devastation to defiance peaks, leaving viewers eager to know what happens next.",
+      "why_it_works": "This promo effectively conveys intense emotional conflict and a dramatic twist that compels viewers to seek resolution.",
       "metrics": {
-        "hook_score": 8.5,
+        "hook_score": 8.0,
         "cliffhanger_score": 9.0,
-        "clarity_score": 8.0,
+        "clarity_score": 7.0,
         "viral_score": 8.5
       }
     },
     {
       "rank": 7,
-      "candidate_id": "STITCH_EP04_001__EP04_102",
-      "promo_type": "stitched",
-      "total_duration_seconds": 28.3,
-      "composite_score": 8.55,
-      "funnel_tier": "Tier 2: High-Paced Dynamic Synthesis Ad",
-      "posting_priority": "POST THIRD (Day 2-3 High-Velocity Ads)",
-      "posting_rationale": "Post this third on YouTube Shorts and TikTok as a high-velocity narrative synthesis. By stitching the devastating insult directly into the soldier's dramatic intervention, it compresses the full setup-conflict-reversal arc into 35-50 seconds, driving maximum watch-time retention and viewer conversion.",
-      "segments": [
-        {
-          "episode": 4,
-          "start_time_seconds": 1.5,
-          "end_time_seconds": 15.0,
-          "start_timestamp": "00:01.50",
-          "end_timestamp": "00:15.00",
-          "duration_seconds": 13.5
-        },
-        {
-          "episode": 4,
-          "start_time_seconds": 102.5,
-          "end_time_seconds": 117.3,
-          "start_timestamp": "01:42.50",
-          "end_timestamp": "01:57.30",
-          "duration_seconds": 14.8
-        }
-      ],
-      "hook": "The shocking mockery from Gerald and Clarissa immediately captures attention, showcasing Juliana's humiliation and disbelief.",
-      "cliffhanger": "The promo ends with Gerald's furious accusation, leaving viewers eager to know how Juliana will respond and what will happen next.",
-      "why_it_works": "This promo effectively combines emotional betrayal with high stakes, compelling viewers to click for resolution.",
-      "metrics": {
-        "hook_score": 8.5,
-        "cliffhanger_score": 9.0,
-        "clarity_score": 8.0,
-        "viral_score": 8.5
-      }
-    },
-    {
-      "rank": 8,
       "candidate_id": "STITCH_EP03_040__EP04_100",
       "promo_type": "stitched",
-      "total_duration_seconds": 26.6,
+      "total_duration_seconds": 28.1,
       "composite_score": 8.48,
       "funnel_tier": "Tier 2: High-Paced Dynamic Synthesis Ad",
       "posting_priority": "POST THIRD (Day 2-3 High-Velocity Ads)",
@@ -288,15 +243,52 @@
         {
           "episode": 4,
           "start_time_seconds": 100.2,
-          "end_time_seconds": 114.2,
+          "end_time_seconds": 115.7,
           "start_timestamp": "01:40.20",
-          "end_timestamp": "01:54.20",
-          "duration_seconds": 14.0
+          "end_timestamp": "01:55.70",
+          "duration_seconds": 15.5
         }
       ],
-      "hook": "The Noble Matriarch's cold command to 'leave' immediately shocks the viewer, hinting at deep familial conflict.",
-      "cliffhanger": "The promo ends just as the Priest pronounces them 'husband and wife,' leaving viewers eager to know the implications of this union.",
-      "why_it_works": "This promo effectively combines emotional betrayal and a dramatic wedding moment, compelling viewers to click for more.",
+      "hook": "The Noble Matriarch's cold command to 'leave' immediately shocks viewers, hinting at deep familial conflict and betrayal.",
+      "cliffhanger": "The promo cuts just as the Priest pronounces them 'husband and wife,' leaving viewers eager to know the implications of this union amidst the earlier tension.",
+      "why_it_works": "The stark contrast between rejection and acceptance creates a gripping narrative that compels viewers to watch more.",
+      "metrics": {
+        "hook_score": 8.0,
+        "cliffhanger_score": 9.0,
+        "clarity_score": 7.0,
+        "viral_score": 8.5
+      }
+    },
+    {
+      "rank": 8,
+      "candidate_id": "STITCH_EP04_001__EP04_102",
+      "promo_type": "stitched",
+      "total_duration_seconds": 25.5,
+      "composite_score": 8.18,
+      "funnel_tier": "Tier 2: High-Paced Dynamic Synthesis Ad",
+      "posting_priority": "POST THIRD (Day 2-3 High-Velocity Ads)",
+      "posting_rationale": "Post this third on YouTube Shorts and TikTok as a high-velocity narrative synthesis. By stitching the devastating insult directly into the soldier's dramatic intervention, it compresses the full setup-conflict-reversal arc into 35-50 seconds, driving maximum watch-time retention and viewer conversion.",
+      "segments": [
+        {
+          "episode": 4,
+          "start_time_seconds": 1.5,
+          "end_time_seconds": 14.2,
+          "start_timestamp": "00:01.50",
+          "end_timestamp": "00:14.20",
+          "duration_seconds": 12.7
+        },
+        {
+          "episode": 4,
+          "start_time_seconds": 102.5,
+          "end_time_seconds": 115.3,
+          "start_timestamp": "01:42.50",
+          "end_timestamp": "01:55.30",
+          "duration_seconds": 12.8
+        }
+      ],
+      "hook": "The shocking mockery and humiliation directed at Juliana immediately captures attention, as viewers are drawn in by the intense emotional conflict.",
+      "cliffhanger": "The promo cuts sharply as Gerald's furious accusation hangs in the air, leaving viewers eager to discover the fallout of this explosive moment.",
+      "why_it_works": "This promo effectively combines emotional betrayal with a dramatic climax, compelling viewers to click for resolution.",
       "metrics": {
         "hook_score": 8.0,
         "cliffhanger_score": 9.0,
@@ -306,26 +298,34 @@
     },
     {
       "rank": 9,
-      "candidate_id": "EP38_047_087",
-      "promo_type": "continuous",
-      "total_duration_seconds": 38.61,
-      "composite_score": 7.78,
-      "funnel_tier": "Tier 3: Power Reveal & Payoff Ad",
-      "posting_priority": "POST LATER (Day 5+ Re-engagement / Core Retargeting)",
-      "posting_rationale": "Post as a mid-campaign retargeting ad to existing viewers who want to see the villains get their comeuppance and witness the mysterious soldier reveal his supreme ducal power.",
+      "candidate_id": "STITCH_EP04_001__EP04_102",
+      "promo_type": "stitched",
+      "total_duration_seconds": 26.3,
+      "composite_score": 8.18,
+      "funnel_tier": "Tier 2: High-Paced Dynamic Synthesis Ad",
+      "posting_priority": "POST THIRD (Day 2-3 High-Velocity Ads)",
+      "posting_rationale": "Post this third on YouTube Shorts and TikTok as a high-velocity narrative synthesis. By stitching the devastating insult directly into the soldier's dramatic intervention, it compresses the full setup-conflict-reversal arc into 35-50 seconds, driving maximum watch-time retention and viewer conversion.",
       "segments": [
         {
-          "episode": 38,
-          "start_time_seconds": 47.8,
-          "end_time_seconds": 86.41,
-          "start_timestamp": "00:47.80",
-          "end_timestamp": "01:26.41",
-          "duration_seconds": 38.61
+          "episode": 4,
+          "start_time_seconds": 1.5,
+          "end_time_seconds": 15.0,
+          "start_timestamp": "00:01.50",
+          "end_timestamp": "00:15.00",
+          "duration_seconds": 13.5
+        },
+        {
+          "episode": 4,
+          "start_time_seconds": 102.5,
+          "end_time_seconds": 115.3,
+          "start_timestamp": "01:42.50",
+          "end_timestamp": "01:55.30",
+          "duration_seconds": 12.8
         }
       ],
-      "hook": "Juliana's heart-wrenching question, 'What if I never see you again?' immediately draws viewers in with emotional intensity.",
-      "cliffhanger": "The promo ends abruptly as Juliana realizes the wedding is beginning, leaving viewers eager to discover her fate and the implications of her defiance.",
-      "why_it_works": "This promo effectively combines emotional stakes with a dramatic revelation, compelling viewers to click for more.",
+      "hook": "The shocking mockery and humiliation directed at Juliana immediately captures attention, as viewers are drawn in by the intense emotional conflict.",
+      "cliffhanger": "The promo cuts sharply as Gerald's furious accusation hangs in the air, leaving viewers eager to discover the fallout of this explosive moment.",
+      "why_it_works": "This promo effectively combines emotional betrayal with a dramatic climax, compelling viewers to click for resolution.",
       "metrics": {
         "hook_score": 8.0,
         "cliffhanger_score": 9.0,
@@ -335,6 +335,101 @@
     },
     {
       "rank": 10,
+      "candidate_id": "EP07_061_096",
+      "promo_type": "continuous",
+      "total_duration_seconds": 32.7,
+      "composite_score": 8.18,
+      "funnel_tier": "Tier 3: Power Reveal & Payoff Ad",
+      "posting_priority": "POST LATER (Day 5+ Re-engagement / Core Retargeting)",
+      "posting_rationale": "Post as a mid-campaign retargeting ad to existing viewers who want to see the villains get their comeuppance and witness the mysterious soldier reveal his supreme ducal power.",
+      "segments": [
+        {
+          "episode": 7,
+          "start_time_seconds": 61.8,
+          "end_time_seconds": 94.5,
+          "start_timestamp": "01:01.80",
+          "end_timestamp": "01:34.50",
+          "duration_seconds": 32.7
+        }
+      ],
+      "hook": "The intense confrontation between Juliana and Gerald, coupled with Gerald's threatening remark about influence, immediately grabs attention.",
+      "cliffhanger": "The promo cuts just as Gerald's bravado crumbles in the face of the Scarred Bearded Man, leaving viewers eager to know what happens next.",
+      "why_it_works": "This promo effectively builds tension and intrigue, compelling viewers to click to find out the outcome of the confrontation.",
+      "metrics": {
+        "hook_score": 8.0,
+        "cliffhanger_score": 9.0,
+        "clarity_score": 7.0,
+        "viral_score": 8.5
+      }
+    },
+    {
+      "rank": 11,
+      "candidate_id": "EP38_047_087",
+      "promo_type": "continuous",
+      "total_duration_seconds": 39.11,
+      "composite_score": 7.7,
+      "funnel_tier": "Tier 3: Power Reveal & Payoff Ad",
+      "posting_priority": "POST LATER (Day 5+ Re-engagement / Core Retargeting)",
+      "posting_rationale": "Post as a mid-campaign retargeting ad to existing viewers who want to see the villains get their comeuppance and witness the mysterious soldier reveal his supreme ducal power.",
+      "segments": [
+        {
+          "episode": 38,
+          "start_time_seconds": 47.8,
+          "end_time_seconds": 86.91,
+          "start_timestamp": "00:47.80",
+          "end_timestamp": "01:26.91",
+          "duration_seconds": 39.11
+        }
+      ],
+      "hook": "Juliana's heart-wrenching question, 'What if I never see you again?' immediately draws viewers into her emotional turmoil.",
+      "cliffhanger": "The promo ends with Juliana's hopeful whisper of her husband's name, leaving viewers in suspense about the wedding and her fate.",
+      "why_it_works": "The intense emotional stakes and Juliana's fierce loyalty create a compelling narrative that hooks viewers and prompts them to watch more.",
+      "metrics": {
+        "hook_score": 8.0,
+        "cliffhanger_score": 9.0,
+        "clarity_score": 7.0,
+        "viral_score": 8.0
+      }
+    },
+    {
+      "rank": 12,
+      "candidate_id": "STITCH_EP05_000__EP06_027",
+      "promo_type": "stitched",
+      "total_duration_seconds": 28.4,
+      "composite_score": 7.55,
+      "funnel_tier": "Tier 2: High-Paced Dynamic Synthesis Ad",
+      "posting_priority": "POST THIRD (Day 2-3 High-Velocity Ads)",
+      "posting_rationale": "Post this third on YouTube Shorts and TikTok as a high-velocity narrative synthesis. By stitching the devastating insult directly into the soldier's dramatic intervention, it compresses the full setup-conflict-reversal arc into 35-50 seconds, driving maximum watch-time retention and viewer conversion.",
+      "segments": [
+        {
+          "episode": 5,
+          "start_time_seconds": 0.0,
+          "end_time_seconds": 15.8,
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:15.80",
+          "duration_seconds": 15.8
+        },
+        {
+          "episode": 6,
+          "start_time_seconds": 27.9,
+          "end_time_seconds": 40.5,
+          "start_timestamp": "00:27.90",
+          "end_timestamp": "00:40.50",
+          "duration_seconds": 12.6
+        }
+      ],
+      "hook": "The promo opens with a tense confrontation between Juliana and her father, immediately establishing a high-stakes emotional conflict.",
+      "cliffhanger": "It cuts sharply as Juliana steps into the dark cottage, leaving viewers questioning what awaits her inside and whether she will escape her father's shadow.",
+      "why_it_works": "This promo effectively combines familial betrayal and personal determination, compelling viewers to click for resolution.",
+      "metrics": {
+        "hook_score": 7.5,
+        "cliffhanger_score": 8.0,
+        "clarity_score": 7.0,
+        "viral_score": 7.5
+      }
+    },
+    {
+      "rank": 13,
       "candidate_id": "STITCH_EP05_000__EP06_026",
       "promo_type": "stitched",
       "total_duration_seconds": 29.8,
@@ -361,8 +456,8 @@
         }
       ],
       "hook": "The promo opens with a tense confrontation between Juliana and her father, immediately establishing a high-stakes emotional conflict.",
-      "cliffhanger": "It cuts as Juliana defiantly walks away, leaving viewers questioning her fate and the implications of her father's words.",
-      "why_it_works": "This promo effectively captures a dramatic moment of familial conflict that resonates with viewers, compelling them to learn more.",
+      "cliffhanger": "It cuts sharply as Juliana steps into the dark cottage, leaving viewers questioning what awaits her inside and the implications of her father's words.",
+      "why_it_works": "This promo effectively combines familial betrayal with a sense of urgency, compelling viewers to click to uncover Juliana's fate.",
       "metrics": {
         "hook_score": 7.5,
         "cliffhanger_score": 8.0,
@@ -371,48 +466,48 @@
       }
     },
     {
-      "rank": 11,
-      "candidate_id": "STITCH_EP05_000__EP06_027",
+      "rank": 14,
+      "candidate_id": "STITCH_EP06_000__EP06_026",
       "promo_type": "stitched",
-      "total_duration_seconds": 26.4,
-      "composite_score": 7.38,
+      "total_duration_seconds": 27.9,
+      "composite_score": 6.38,
       "funnel_tier": "Tier 2: High-Paced Dynamic Synthesis Ad",
       "posting_priority": "POST THIRD (Day 2-3 High-Velocity Ads)",
       "posting_rationale": "Post this third on YouTube Shorts and TikTok as a high-velocity narrative synthesis. By stitching the devastating insult directly into the soldier's dramatic intervention, it compresses the full setup-conflict-reversal arc into 35-50 seconds, driving maximum watch-time retention and viewer conversion.",
       "segments": [
         {
-          "episode": 5,
+          "episode": 6,
           "start_time_seconds": 0.0,
-          "end_time_seconds": 15.8,
+          "end_time_seconds": 14.9,
           "start_timestamp": "00:00.00",
-          "end_timestamp": "00:15.80",
-          "duration_seconds": 15.8
+          "end_timestamp": "00:14.90",
+          "duration_seconds": 14.9
         },
         {
           "episode": 6,
-          "start_time_seconds": 27.9,
-          "end_time_seconds": 38.5,
-          "start_timestamp": "00:27.90",
-          "end_timestamp": "00:38.50",
-          "duration_seconds": 10.6
+          "start_time_seconds": 26.5,
+          "end_time_seconds": 39.5,
+          "start_timestamp": "00:26.50",
+          "end_timestamp": "00:39.50",
+          "duration_seconds": 13.0
         }
       ],
-      "hook": "The promo opens with a tense confrontation between Juliana and her father, immediately showcasing a high-stakes family conflict.",
-      "cliffhanger": "It cuts sharply as Juliana steps into the dark cottage, leaving viewers questioning what awaits her inside after her defiant statement.",
-      "why_it_works": "The emotional intensity and familial betrayal create a compelling reason for viewers to click and learn more.",
+      "hook": "The promo opens with a visually striking scene of Juliana in a wedding gown trudging through a dark, rain-soaked forest, immediately creating intrigue and tension.",
+      "cliffhanger": "It cuts sharply as Juliana enters the cottage, leaving viewers questioning what awaits her inside and the implications of her defiance.",
+      "why_it_works": "The combination of a visually compelling setting and Juliana's emotional turmoil draws in viewers, making them eager to discover her fate.",
       "metrics": {
-        "hook_score": 7.5,
-        "cliffhanger_score": 8.0,
-        "clarity_score": 6.5,
-        "viral_score": 7.0
+        "hook_score": 6.5,
+        "cliffhanger_score": 7.0,
+        "clarity_score": 5.5,
+        "viral_score": 6.0
       }
     },
     {
-      "rank": 12,
+      "rank": 15,
       "candidate_id": "EP06_000_040",
       "promo_type": "continuous",
       "total_duration_seconds": 41.0,
-      "composite_score": 5.45,
+      "composite_score": 4.95,
       "funnel_tier": "Tier 3: Power Reveal & Payoff Ad",
       "posting_priority": "POST LATER (Day 5+ Re-engagement / Core Retargeting)",
       "posting_rationale": "Post as a mid-campaign retargeting ad to existing viewers who want to see the villains get their comeuppance and witness the mysterious soldier reveal his supreme ducal power.",
@@ -426,20 +521,20 @@
           "duration_seconds": 41.0
         }
       ],
-      "hook": "The promo opens with a visually striking scene of Juliana in a wedding gown trudging through the rain, which piques curiosity but lacks an immediate shocking element.",
-      "cliffhanger": "The promo ends with Juliana stepping into a dark cottage, leaving viewers wondering about her fate and the implications of her previous humiliation.",
-      "why_it_works": "The emotional weight of Juliana's journey and her defiant statement about humiliation creates a relatable conflict that draws viewers in.",
+      "hook": "The promo opens with a visually striking scene of Juliana in a wedding gown trudging through a dark, rainy forest, which piques curiosity but lacks an immediate shocking element.",
+      "cliffhanger": "The promo ends with Juliana stepping into a dark cottage, leaving viewers wondering about her fate and the implications of her earlier statement about humiliation.",
+      "why_it_works": "The emotional weight of Juliana's journey and her defiant statement resonates, compelling viewers to learn more about her story.",
       "metrics": {
         "hook_score": 4.0,
-        "cliffhanger_score": 7.0,
-        "clarity_score": 6.0,
+        "cliffhanger_score": 6.0,
+        "clarity_score": 5.0,
         "viral_score": 5.0
       }
     }
   ],
   "quality_audit": {
-    "total_audited": 12,
-    "flagged_count": 9,
+    "total_audited": 15,
+    "flagged_count": 10,
     "systemic_failure_modes": [
       {
         "category": "The 'Stage Direction' Illusion (Passive Action False Positive)",
@@ -555,6 +650,15 @@
       },
       {
         "candidate_id": "EP06_000_040",
+        "episodes": [
+          6
+        ],
+        "warnings": [
+          "Hook consists solely of physical action/reaction with no spoken dialogue; risks slow pacing on TikTok."
+        ]
+      },
+      {
+        "candidate_id": "STITCH_EP06_000__EP06_026",
         "episodes": [
           6
         ],
