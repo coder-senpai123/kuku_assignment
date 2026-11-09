@@ -3,4 +3,6 @@ __pycache__/
 *.pyc
 .venv/
 .pytest_cache/
-
+SOLUTION_DOCUMENT.*
+solution_doc.html
+generate_pdf.py
